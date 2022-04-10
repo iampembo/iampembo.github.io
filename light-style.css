@@ -1159,7 +1159,7 @@ pre {
       -webkit-transform: translateY(0rem) !important;
               transform: translateY(0rem) !important;
       will-change: transform !important;
-      background: rgba(14, 15, 19, 0.1) !important;
+      background: rgba(255, 255, 255, 0.952) !important;
       margin-top: 1rem !important;
       padding-bottom: 1rem !important; }
       .super-content .notion-collection-gallery.large .notion-collection-card:hover {
