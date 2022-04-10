@@ -778,7 +778,13 @@ img {
   min-height: auto !important; }
 
 .notion-text__content {
-  padding: 0 !important; }
+  padding: 0 !important; 
+  margin-top: 2rem;
+}
+
+.notion-text__content .notion-semantic-string span {
+  font-size: 2rem;
+}
 
 .notion-bulleted-list {
   margin: 0 !important; }
