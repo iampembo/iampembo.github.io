@@ -785,9 +785,9 @@ img {
   margin-top: 2rem;
 }
 
-.notion-text__content .notion-semantic-string span {
+/* .notion-text__content .notion-semantic-string span {
   font-size: 2rem;
-}
+} */
 
 .notion-bulleted-list {
   margin: 0 !important; }
