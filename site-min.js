@@ -11,6 +11,6 @@ $(document).ready(function () {
     $(".jumpTo").click(function() {
         $('html, body').animate({
             scrollTop: $("#block-f3460e72e67e440eb74c8d149122528e").offset().top
-        }, 2000);
+        }, 1000);
     });
 });
